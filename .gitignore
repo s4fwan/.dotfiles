@@ -1,0 +1,24 @@
+# --- SSH / GPG / Keys ---
+.ssh/
+.gnupg/
+*.pem
+*.key
+*.crt
+*.p12
+*.asc
+
+# --- Credentials & Tokens ---
+*.env
+.envrc
+*.auth
+*.passwd
+
+# --- OS / Editor / Temp Files ---
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+*.tmp
+*.old
+
